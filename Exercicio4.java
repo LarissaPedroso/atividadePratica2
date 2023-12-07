@@ -49,8 +49,7 @@ public class Exercicio4 {
 				}else if(c3.equalsIgnoreCase("Onívoro")) {
 					System.out.println("Minhoca");
 				}
-			}
-			
+			}	
 		}
 	}
 
